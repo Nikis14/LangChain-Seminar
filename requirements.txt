@@ -1,0 +1,11 @@
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-core==0.1.33
+langchain-openai==0.1.1
+langchain-text-splitters==0.0.1
+langsmith==0.1.31
+deeplake==3.8.27
+libdeeplake==0.0.109
+openpyxl==3.1.2
+pandas==2.2.1
+python-dotenv==1.0.1
